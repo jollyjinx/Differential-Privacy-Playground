@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0883A7B0246BFA3D11E7C756BC825BF5C2CDF987",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "38C26A7AED3FEEB1A4D124A3631CE6F5C5C365CD" : 0,
+    "0883A7B0246BFA3D11E7C756BC825BF5C2CDF987" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2B9B43F-4FAE-42ED-AC2B-5BBED97B62DD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "38C26A7AED3FEEB1A4D124A3631CE6F5C5C365CD" : "..",
+    "0883A7B0246BFA3D11E7C756BC825BF5C2CDF987" : "DifferntialPrivacy\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DifferentialPrivacy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DifferentialPrivacy.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jollyjinx\/Differential-Privacy-Playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0883A7B0246BFA3D11E7C756BC825BF5C2CDF987"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/bgb.jinx.eu.\/~\/Disks\/gitmaster.smee\/master\/",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "38C26A7AED3FEEB1A4D124A3631CE6F5C5C365CD"
+    }
+  ]
+}
